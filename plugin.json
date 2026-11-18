@@ -1,0 +1,17 @@
+{
+  "id": "keymap-vim",
+  "name": "%plugin.name%",
+  "version": "0.1.0",
+  "vendor": "Lemon Paperplane",
+  "description": "%plugin.description%",
+  "icon": "icons/keymap-vim.svg",
+  "category": "tool",
+  "engines": {"paperplane": ">=0.1.0 <0.2.0"},
+  "protocol": 1,
+  "activation": {},
+  "contributes": {
+    "keymaps": [
+      {"id": "vim", "name": "%keymap.vim%", "platform": "any", "module": "editor/keymap-vim.js"}
+    ]
+  }
+}

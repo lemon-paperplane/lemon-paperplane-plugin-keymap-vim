@@ -1,0 +1,5 @@
+{
+  "plugin.name": "Vim Keymap",
+  "plugin.description": "Vim modal editing for the file editor (normal/insert/visual modes, :w, :q…) on top of the platform default keymap",
+  "keymap.vim": "Vim"
+}

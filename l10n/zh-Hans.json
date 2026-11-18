@@ -1,0 +1,5 @@
+{
+  "plugin.name": "Vim 快捷键",
+  "plugin.description": "文件编辑器的 Vim 模式编辑（普通/插入/可视模式、:w、:q 等），叠加在平台默认快捷键之上",
+  "keymap.vim": "Vim"
+}
